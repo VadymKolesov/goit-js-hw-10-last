@@ -4,8 +4,7 @@
   | default @import url()
   |============================
 */
-@import url('./reset.css');
-@import url('./vite-promo.css');
+@import url('./1-timer.css');
 @import url('./header.css');
 
 :root {
